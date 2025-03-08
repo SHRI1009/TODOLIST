@@ -1,6 +1,6 @@
 body{margin: 0;
     min-height: 100vh;
-  padding: 0 2rem 0 2rem;
+  padding: 2rem 2rem 2rem 2rem;
     background: linear-gradient(rgb(47, 157, 167),black);
     display: flex;
     justify-content: center;
